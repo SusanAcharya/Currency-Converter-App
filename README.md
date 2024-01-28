@@ -1,6 +1,6 @@
 # currency_converter
 
-A new Flutter project.
+A Flutter project about currency conversion. In this app, you can convert USD amount in NRS (Nepali Rupees) with just a click of a button.
 
 ## Getting Started
 
